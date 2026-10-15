@@ -1,0 +1,47 @@
+{
+  "case": "01 原造价方案",
+  "equipment_cost_factor": 1.0,
+  "sizing_years": 1,
+  "maintenance": false,
+  "annual_hydrogen_t": 30000,
+  "capacity": [
+    0.0,
+    274364.86253847583,
+    41317.21722756576,
+    138865.46504763947,
+    11485.607492758605,
+    0.0,
+    0.0
+  ],
+  "gap": 8.638645596239522e-05,
+  "gap_source": "容量文件",
+  "iterations": 13,
+  "cost_wanyuan_year": 67807.81493623534,
+  "cost_parts_wanyuan_year": {
+    "光伏": 0.0,
+    "需量容量费": 19381.690576024022,
+    "电解槽": 5779.011109530832,
+    "罐体": 400.8282493215537,
+    "泵体": 360.9784643464054,
+    "储能2h": 0.0,
+    "储能4h": 0.0,
+    "下网电量电费": 41885.306537012526
+  },
+  "initial_investment_wanyuan": [
+    0.0,
+    0.0,
+    49580.660673078906,
+    3744.3837814731255,
+    3096.9919267902656,
+    0.0,
+    0.0
+  ],
+  "initial_investment_total_wanyuan": 56422.036381342295,
+  "unit_cost_yuan_kg": 22.602604978745116,
+  "main_optimization_converged": true,
+  "full_process_completed": true,
+  "final_iteration_slack_GWh": 0.0,
+  "source_directory": "C:\\Users\\Tianyi\\OneDrive\\融和元储工作\\模型等其他参考资料\\Python\\光储氢测算\\优化缓存\\储+氢\\分时电价_2026_年用氢3万吨_无绿电约束_v2\\单年筛选",
+  "source_tag": "_bd1y_trk_offnone",
+  "caveat": "设备投资含建安范围未明确；缺少水耗等费用，不代表完整平准化制氢成本"
+}

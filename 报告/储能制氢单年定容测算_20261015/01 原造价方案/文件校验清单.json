@@ -1,0 +1,81 @@
+{
+  "archived_at": "2026-10-16T01:40:51.003533",
+  "reference_sha256": "39e9a9f8d800f252fee59b8b9153b86890611004227e2271c17bc9b548e0ad6b",
+  "files": [
+    {
+      "file": "原始结果\\_bd1y_trk_offnone_割平面.npy",
+      "bytes": 3569,
+      "sha256": "0c1ed68a82754b99b4724f1a0f620ca26a7d43822deb001515c18d486e2e66a6"
+    },
+    {
+      "file": "原始结果\\_bd1y_trk_offnone_容量.npy",
+      "bytes": 1287,
+      "sha256": "22a2ba0eef232c9ffd0b7c84f839bc3f86a43faef6a6ad8ec69601e2eeb3d7c3"
+    },
+    {
+      "file": "原始结果\\_bd1y_trk_offnone_迭代.csv",
+      "bytes": 2368,
+      "sha256": "6813100fe8bd6ab14db107457cc9d03c31760f24b58e2c174c33eb5e52baf76b"
+    },
+    {
+      "file": "原始结果\\_bd1y_trk_offnone_逐年.csv",
+      "bytes": 417,
+      "sha256": "e6504cc988a98a3b5ea3ae9c4e76b94ef2a0804ba50babec246527809364f905"
+    },
+    {
+      "file": "原始结果\\定容运行日志.txt",
+      "bytes": 5953,
+      "sha256": "5589ce5d6a236b2f31f62a57c4e374a6f6c424e921c08e8f9beb73bff259e768"
+    },
+    {
+      "file": "参考报告正文.txt",
+      "bytes": 9419,
+      "sha256": "f52eb78190b582f6de0f0ecf498b5a12a912aa002914e8afc831c4e62c4c8675"
+    },
+    {
+      "file": "基准造价方案定容测算报告.docx",
+      "bytes": 43383,
+      "sha256": "e49c8be84b5bb10e2c85fc2829099259a02f20bff92bd19d06e103fefb3fa5a6"
+    },
+    {
+      "file": "年均成本.csv",
+      "bytes": 249,
+      "sha256": "b82b5928042ca450b808180bb64e3d295032ae91c4abb98b5ee3f0d47ccb342c"
+    },
+    {
+      "file": "测算结果汇总.json",
+      "bytes": 1469,
+      "sha256": "0268b295f7f0b72f076a6ed1768d5803ee4a94171caac9d4c3c4e7caeaaac362"
+    },
+    {
+      "file": "设备配置及投资.csv",
+      "bytes": 426,
+      "sha256": "dc33b688603247d2ca37ab2f646f339b12e7dd09eec720c1ebaa770c295da3a5"
+    },
+    {
+      "file": "输入与代码快照\\bd10y.py",
+      "bytes": 20397,
+      "sha256": "18bb156e211501074709cda331b7be908cdf09449c7709effa671caeadbb5984"
+    },
+    {
+      "file": "输入与代码快照\\lp_multi.py",
+      "bytes": 32672,
+      "sha256": "5807ea2d443c19022dd9e8df95a1992fdb25ea64d83655b3a102c974d1dc6a88"
+    },
+    {
+      "file": "输入与代码快照\\paths.py",
+      "bytes": 1183,
+      "sha256": "94f504c595f0711ecc3c06e182c077103bfbf879d5f1bf34e7429c222120b067"
+    },
+    {
+      "file": "输入与代码快照\\requirements.txt",
+      "bytes": 144,
+      "sha256": "ca47d3737b00232711ea1ef8a96187ceeda57d6869fa299c5a141185b8e50c8d"
+    },
+    {
+      "file": "输入与代码快照\\储+氢_分时电价_2026.csv",
+      "bytes": 262834,
+      "sha256": "8628edb0187ab9de0a495b0863affcd1571774be0146e3cdcc5c63334c861c13"
+    }
+  ]
+}

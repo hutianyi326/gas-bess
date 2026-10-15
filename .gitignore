@@ -1,0 +1,9 @@
+# Document rendering previews and temporary files
+.report_qa/
+
+# Python runtime files
+__pycache__/
+*.py[cod]
+
+# Office temporary lock files
+~$*

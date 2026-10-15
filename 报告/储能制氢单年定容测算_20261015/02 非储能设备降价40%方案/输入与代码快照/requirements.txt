@@ -1,0 +1,9 @@
+highspy==1.15.1
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.0.3
+openpyxl==3.1.5
+matplotlib==3.11.1
+python-docx==1.2.0
+latex2mathml==3.81.1
+lxml==6.1.1

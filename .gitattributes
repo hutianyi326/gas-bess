@@ -1,0 +1,2 @@
+# Preserve archived file bytes so SHA256 manifests survive checkout.
+* -text

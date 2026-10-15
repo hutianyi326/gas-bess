@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-10-16T01:40:51.175179",
+  "reference_sha256": "39e9a9f8d800f252fee59b8b9153b86890611004227e2271c17bc9b548e0ad6b",
+  "files": [
+    {
+      "file": "原始结果\\_bd1y_trk_bx1_offnone_割平面.npy",
+      "bytes": 6649,
+      "sha256": "31caf8b490a4113b10878eac046040cbe80f8efff08dae7f9284baf4eb9818fc"
+    },
+    {
+      "file": "原始结果\\定容运行日志.txt",
+      "bytes": 6421,
+      "sha256": "4f7e73cf971bda4ee5094534cb4d6938d6693ca16cfa90cda44a25cfa98de405"
+    },
+    {
+      "file": "参考报告正文.txt",
+      "bytes": 9419,
+      "sha256": "f52eb78190b582f6de0f0ecf498b5a12a912aa002914e8afc831c4e62c4c8675"
+    },
+    {
+      "file": "年均成本.csv",
+      "bytes": 248,
+      "sha256": "3f5633f0c8d38005dae1f0a7e710936b08a4e64a129bfd3243816101838433e4"
+    },
+    {
+      "file": "最佳收敛检查点_归档.npy",
+      "bytes": 928,
+      "sha256": "1424c489c374d22336acd356c0b52f02f9f9d6b0e966452a2b63c1b11ae8b7b3"
+    },
+    {
+      "file": "测算结果汇总.json",
+      "bytes": 1514,
+      "sha256": "b94e710b8ddccbf6a80f0d8d66c0655cb3d7f620766023d7512894bb6881e9cf"
+    },
+    {
+      "file": "设备配置及投资.csv",
+      "bytes": 422,
+      "sha256": "d8f296684e95b23713464eb3ca46ea9d8834c6eff0d909913575e353adda9b6e"
+    },
+    {
+      "file": "输入与代码快照\\bd10y.py",
+      "bytes": 20397,
+      "sha256": "18bb156e211501074709cda331b7be908cdf09449c7709effa671caeadbb5984"
+    },
+    {
+      "file": "输入与代码快照\\lp_multi.py",
+      "bytes": 32672,
+      "sha256": "5807ea2d443c19022dd9e8df95a1992fdb25ea64d83655b3a102c974d1dc6a88"
+    },
+    {
+      "file": "输入与代码快照\\paths.py",
+      "bytes": 1183,
+      "sha256": "94f504c595f0711ecc3c06e182c077103bfbf879d5f1bf34e7429c222120b067"
+    },
+    {
+      "file": "输入与代码快照\\requirements.txt",
+      "bytes": 144,
+      "sha256": "ca47d3737b00232711ea1ef8a96187ceeda57d6869fa299c5a141185b8e50c8d"
+    },
+    {
+      "file": "输入与代码快照\\储+氢_分时电价_2026.csv",
+      "bytes": 262834,
+      "sha256": "8628edb0187ab9de0a495b0863affcd1571774be0146e3cdcc5c63334c861c13"
+    },
+    {
+      "file": "非储能设备造价降低百分之四十方案定容测算报告.docx",
+      "bytes": 43614,
+      "sha256": "93d71d4a6bac438d05e22359070850d47350c354ad1d117ead6052a8db875d94"
+    }
+  ]
+}

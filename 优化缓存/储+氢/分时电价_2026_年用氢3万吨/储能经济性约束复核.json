@@ -1,0 +1,68 @@
+[
+  {
+    "disable_green": false,
+    "added_E4_kWh": 0,
+    "cost": 347875959.87853134,
+    "status": "Optimal",
+    "charge_kWh": 0.0,
+    "discharge_kWh": 0.0,
+    "green_slack_kWh": 0.0,
+    "over_kWh": 0.0,
+    "dual_E4": -668.3961698855364
+  },
+  {
+    "disable_green": false,
+    "added_E4_kWh": 1,
+    "cost": 347875959.87853134,
+    "status": "Optimal",
+    "charge_kWh": 0.0,
+    "discharge_kWh": 0.0,
+    "green_slack_kWh": 0.0,
+    "over_kWh": 0.0,
+    "dual_E4": 0.0
+  },
+  {
+    "disable_green": false,
+    "added_E4_kWh": 50000,
+    "cost": 347875959.87853134,
+    "status": "Optimal",
+    "charge_kWh": 0.0,
+    "discharge_kWh": 0.0,
+    "green_slack_kWh": 0.0,
+    "over_kWh": 0.0,
+    "dual_E4": 0.0
+  },
+  {
+    "disable_green": true,
+    "added_E4_kWh": 0,
+    "cost": 347875959.87853134,
+    "status": "Optimal",
+    "charge_kWh": 0.0,
+    "discharge_kWh": 0.0,
+    "green_slack_kWh": 0.0,
+    "over_kWh": 0.0,
+    "dual_E4": -668.3961698855364
+  },
+  {
+    "disable_green": true,
+    "added_E4_kWh": 1,
+    "cost": 347875959.87853134,
+    "status": "Optimal",
+    "charge_kWh": 0.0,
+    "discharge_kWh": 0.0,
+    "green_slack_kWh": 0.0,
+    "over_kWh": 0.0,
+    "dual_E4": 0.0
+  },
+  {
+    "disable_green": true,
+    "added_E4_kWh": 50000,
+    "cost": 347875959.87853134,
+    "status": "Optimal",
+    "charge_kWh": 0.0,
+    "discharge_kWh": 0.0,
+    "green_slack_kWh": 0.0,
+    "over_kWh": 0.0,
+    "dual_E4": 0.0
+  }
+]
